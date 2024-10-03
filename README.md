@@ -1,5 +1,5 @@
 -----
-Hand Detector
+Hand Detector & Tracking
 -----
 1. install python versi terbaru (saat dokumen ini dibuat versi python 3.12.6)
 2. Instal OpenCV di Python 3.12, Untuk memastikan bahwa OpenCV (cv2) terinstal di Python 3.12, jalankan perintah berikut:
